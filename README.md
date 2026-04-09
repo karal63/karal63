@@ -10,6 +10,8 @@ Vue.js · TypeScript · Node.js
 
 I build full-stack web applications with a focus on clean architecture, scalable APIs, and intuitive user interfaces. I enjoy connecting frontend experiences with robust backend systems using modern JavaScript technologies.
 
+Outside of tech, I’m passionate about sports, calisthenics, and supercars.
+
 ---
 ## Core Technologies
 
